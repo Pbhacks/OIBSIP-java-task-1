@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.util.HashMap;
 import java.util.Map;
-
+//Initial Credentials : username: admin, password: password
 public class OnlineReservationSystem {
     private static JFrame frame;
     private static JPanel panel;
